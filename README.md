@@ -1,2 +1,1 @@
-# .github
-Spring Dozen
+# Spring Dozen
